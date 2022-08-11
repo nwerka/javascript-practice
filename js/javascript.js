@@ -20,3 +20,12 @@ const isHappy = false;
 
 console.log(firstname);
 console.log(lastname);
+
+// single line comment
+true // another comment
+
+/* this is multi-line comment */
+
+console.log("negede")
+console.log("pizza")
+
